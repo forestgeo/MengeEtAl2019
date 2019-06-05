@@ -6,4 +6,4 @@ Appendix 1 contains further details of the statistical analyses performed in the
 
 Appendix 2 contains data used in the statistical analyses performed in the paper.
 
-[See Acknowledgements](MengeEtAl_2019_Acknowledgements_for_SantaCruz_plot.pdf)
+[Acknowledgements](MengeEtAl_2019_Acknowledgements_for_SantaCruz_plot.pdf)
