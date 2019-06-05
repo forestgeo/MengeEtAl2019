@@ -5,3 +5,5 @@ This repository contains two Appendices for the paper "Patterns of nitrogen-fixi
 Appendix 1 contains further details of the statistical analyses performed in the paper, together with plot-specific acknowledgements and additional graphs. 
 
 Appendix 2 contains data used in the statistical analyses performed in the paper.
+
+[See Acknowledgements](MengeEtAl_2019_Acknowledgements_for_SantaCruz_plot.pdf)
